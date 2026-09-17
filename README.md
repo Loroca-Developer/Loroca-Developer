@@ -39,37 +39,22 @@
 
 <br>
 
-### 📊 Estadísticas de GitHub
+### 📊 Racha de contribuciones
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Loroca-Developer&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=9B59B6&text_color=E6E6FA&bg_color=1a1a2e" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loroca-Developer&theme=tokyonight&hide_border=true&background=1a1a2e&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loroca-Developer&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&text_color=E6E6FA&bg_color=1a1a2e" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Loroca-Developer&theme=tokyonight&hide_border=true&background=1a1a2e&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" />
 </p>
 
 <br>
 
-### 🏆 Trofeos
+### 📌 Proyectos de aprendizaje
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Loroca-Developer&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
-</p>
-
-<br>
-
-### 📌 Repositorios destacados
-
-<p align="center">
-  <a href="https://github.com/Loroca-Developer/Deployment-diagram">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loroca-Developer&repo=Deployment-diagram&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=9B59B6&text_color=E6E6FA" />
-  </a>
-  <a href="https://github.com/Loroca-Developer/Diagrama-de-Clases-Lente-Magico">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Loroca-Developer&repo=Diagrama-de-Clases-Lente-Magico&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=9B59B6&text_color=E6E6FA" />
-  </a>
-</p>
+- 🔹 [**Deployment-diagram**](https://github.com/Loroca-Developer/Deployment-diagram) — Diagrama de despliegue de arquitectura
+- 🔹 [**pagina-web**](https://github.com/Loroca-Developer/pagina-web) — Proyecto de página web
+- 🔹 [**Diagrama-de-Clases-Lente-Magico**](https://github.com/Loroca-Developer/Diagrama-de-Clases-Lente-Magico) — Diagrama de clases del proyecto "Lente Mágico"
+- 🔹 [**Diagrama_modelo_entidad_relacion_v2**](https://github.com/Loroca-Developer/Diagrama_modelo_entidad_relacion_v2) — Modelo entidad-relación de base de datos
+- 🔹 [**Diagrama_Lente_Magic_V3**](https://github.com/Loroca-Developer/Diagrama_Lente_Magic_V3) — Diagrama del proyecto "Lente Mágico" (versión 3)
+- 🔹 [**Documentaci-n_apilente_magico_si**](https://github.com/Loroca-Developer/Documentaci-n_apilente_magico_si) — Documentación técnica del proyecto (PHP)
 
 <br>
 
